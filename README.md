@@ -1,6 +1,6 @@
 # Projeto - Tela de Login
 
-#### Descrição
+### Descrição
 
 Projeto criado na aula de programação Front-End, na Unicesumar, campus de Londrina. O professor [Leonardo Rocha](https://github.com/leonardossrocha) introduziu os conceitos de framework, apresentando o Bootstrap e alguns exemplos disponíveis nesse framework, e git, realizando o passo-a-passo de configuração do ambiente de desenvolvimento.
 
@@ -17,7 +17,7 @@ Durante a criação do projeto foi implementado um botão flutuante de suporte t
 
 Este projeto implementa um botão flutuante de Ajuda/FAQ no canto inferior direito de uma página de login. Ao clicar, o usuário é redirecionado para uma página dedicada com as dúvidas mais frequentes sobre acesso.
 
-## Funcionalidades
+### Funcionalidades
 
 - Botão Flutuante: Círculo azul fixo com ponto de interrogação.
 - Navegação: Redirecionamento direto para a página de suporte.
